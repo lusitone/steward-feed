@@ -4,5 +4,34 @@
     <title>Steward LinkedIn Feed</title>
     <link>https://stewardhoa.co</link>
     <description>Steward HOA content feed</description>
-  </channel>
+  
+  <item>
+    <title>The Real HOA Problem Isn’t Documents — It’s Continuity</title>
+    <description><![CDATA["Where did the minutes from last year’s meeting go?"
+
+"Who was in charge of that project again?"
+
+Ever found yourself asking these questions at an HOA board meeting? You’re not alone.
+
+It’s not just about misplacing documents. It’s about losing the thread of knowledge that keeps your community running smoothly.
+
+Board members change, and suddenly, so does the story of your association. What one board set in motion might be forgotten by the next. 
+
+The problem isn’t the paperwork — it’s the continuity. 
+
+A well-run HOA needs more than just a stack of files. It needs a living, breathing archive that captures decisions, projects, and historical context. Without this, every new board is left reinventing the wheel, wasting valuable time and resources.
+
+Imagine passing the baton with confidence, knowing the next set of hands won’t drop it. Imagine a system that helps your board preserve the wisdom of those who came before.
+
+This Monday, take a moment to consider how your board handles transitions. The knowledge gap might be wider than you think.
+
+#ContinuityMatters #HOABoard #CommunityLeadership #InstitutionalKnowledge #HOAGovernance #BoardTransition #PropertyManagement
+
+#ContinuityMatters #HOABoard #CommunityLeadership #InstitutionalKnowledge #HOAGovernance #BoardTransition #PropertyManagement]]></description>
+    <link>https://stewardhoa.co</link>
+    <pubDate>Tue, 02 Jun 2026 01:00:14 GMT</pubDate>
+    <guid>1780362014996</guid>
+    <enclosure url="https://dev-steward.fixhouz.com/linkedin-images/steward-06-02-2025-Pain-Point.png" type="image/png" length="0"/>
+  </item>
+</channel>
 </rss>
