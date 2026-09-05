@@ -1091,5 +1091,16 @@ In the world of HOA management, informed decisions can lead to significant savin
     <guid>1786708870733</guid>
     <enclosure url="https://steward.fixhouz.com/util/steward-linkedin/linkedin-images/steward-08-07-2026-Educational.png" type="image/png" length="0"/>
   </item>
+
+  <item>
+    <title>TEST POST — safe to delete. This is a placeholder used only to verify the publish-social-feed.js dry run.
+
+#Test</title>
+    <description><![CDATA[Test headline — safe to delete]]></description>
+    <link>https://stewardhoa.co</link>
+    <pubDate>Sat, 05 Sep 2026 21:04:21 GMT</pubDate>
+    <guid>17886422610690</guid>
+    <enclosure url="https://blog.stewardhoa.co/util/steward-linkedin/linkedin-images/steward-09-05-2026-Test-Post-post1.png" type="image/png" length="0"/>
+  </item>
 </channel>
 </rss>
